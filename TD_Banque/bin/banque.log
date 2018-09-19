@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-10-27T18:07:59</date>
+  <millis>1509120479362</millis>
+  <sequence>0</sequence>
+  <logger>main.Main</logger>
+  <level>INFO</level>
+  <class>main.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Compte 1dc56f9a-bdb0-404e-8723-07332c9cfbf4
+Owner : John Doe
+Balance : 50.0
+</message>
+</record>
+</log>

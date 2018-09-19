@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project>
+    <totalNumberOfTestableClasses>1</totalNumberOfTestableClasses>
+    <cut>
+        <fullNameOfTargetClass>model.impl.CompteCourant</fullNameOfTargetClass>
+        <fullNameOfTestSuite>model.impl.CompteCourant_ESTest</fullNameOfTestSuite>
+        <generation>
+            <id>0</id>
+            <failed>false</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>180</timeBudgetInSeconds>
+            <memoryInMB>2000</memoryInMB>
+            <std_err_CLIENT>/Users/haseeb/Documents/L3MIAGE/L3C Miage/JAVA/TD_Banque/.evosuite/tmp_2017_11_09_22_25_04/logs/model.impl.CompteCourant/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/haseeb/Documents/L3MIAGE/L3C Miage/JAVA/TD_Banque/.evosuite/tmp_2017_11_09_22_25_04/logs/model.impl.CompteCourant/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/haseeb/Documents/L3MIAGE/L3C Miage/JAVA/TD_Banque/.evosuite/tmp_2017_11_09_22_25_04/logs/model.impl.CompteCourant/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/haseeb/Documents/L3MIAGE/L3C Miage/JAVA/TD_Banque/.evosuite/tmp_2017_11_09_22_25_04/logs/model.impl.CompteCourant/std_out_MASTER.log</std_out_MASTER>
+            <suite>
+                <fullPathOfTestSuite>/Users/haseeb/Documents/L3MIAGE/L3C Miage/JAVA/TD_Banque/.evosuite/tmp_2017_11_09_22_25_04/tests/model/impl/CompteCourant_ESTest.java</fullPathOfTestSuite>
+                <numberOfTests>6</numberOfTests>
+                <totalNumberOfStatements>12</totalNumberOfStatements>
+                <totalEffortInSeconds>104</totalEffortInSeconds>
+                <coverage>
+                    <criterion>LineCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>1111111111111111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>BranchCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>11111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>ExceptionCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>1</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>WeakMutationScore</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>11111111111111111111111111111111111111111111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>OutputCoverage</criterion>
+                    <coverageValue>0.83</coverageValue>
+                    <coverageBitString>111011</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>MethodCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>1111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>MethodNoExceptionCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>1111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>CBranchCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>11111</coverageBitString>
+                </coverage>
+            </suite>
+        </generation>
+    </cut>
+</Project>
